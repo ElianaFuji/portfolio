@@ -1,9 +1,9 @@
 # Projeto Portfolio  📑
 
-Atividade desenvolvida para atividade prática da aula de "Desenvolvimento FrontEnd - HTML CSS e BOOTSTRAP da Faculdade Descomplica". 
+> Desenvolvida para atividade prática da aula de "Desenvolvimento FrontEnd - HTML CSS e BOOTSTRAP da Faculdade Descomplica".
+O objetivo é praticar a criação de um site básico estático e hospedá-lo usando o GitHub Pages, aplicando os conhecimentos de HTML, CSS, Bootstrap e uso do GitHub.
 Esse projeto parte de um template do site do bootstrap.
 
-O objetivo é a partir da construção em html chegar a gerar o link do próprio portfolio.
 Os dados foram incorporados a partir do site Lorem Ipsum.
 
 ## Indice
