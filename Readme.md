@@ -38,11 +38,11 @@ navegador: http://localhost:3000
 ```
 
 ## 🛠️ Tecnologias Utilizadas
-. [VSCode]
-. [HTML]
-. [CSS]
-. [Bootstrape]
-. [GitHub]
+. VSCode
+. HTML
+. CSS
+. Bootstrape
+. GitHub
 
 ## Links Utilizados
 - [Bootstrap] https://startbootstrap.com/themes
@@ -50,5 +50,5 @@ navegador: http://localhost:3000
 - [Link Lorem Ipsum] https://www.lipsum.com/feed/html
 
 ## Layouts
-. [tela home]{c:/layouts/tela1.png}
+. ![tela home] c:/layouts/tela1.png
 . [tela sobre]{c:/layouts/tela2.png}
