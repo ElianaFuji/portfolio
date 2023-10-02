@@ -50,5 +50,5 @@ navegador: http://localhost:3000
 - [Link Lorem Ipsum] https://www.lipsum.com/feed/html
 
 ## Layouts
-. ![tela home]{./layouts/tela1.png}
-. ![tela sobre]{./layouts/tela2.png}
+. [tela home]{c:/layouts/tela1.png}
+. [tela sobre]{c:/layouts/tela2.png}
