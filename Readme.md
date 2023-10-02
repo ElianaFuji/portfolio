@@ -8,11 +8,11 @@ Esse projeto parte de um template do site do bootstrap.
 Os dados foram incorporados a partir do site Lorem Ipsum.
 
 ## Indice
-- <a href="#demonstracao">Demonstração</a>
-- <a href="#rodar">Como rodar este projeto?</a>
-- <a href="#tecnologias-utilizadas">Tecnologias utilizadas </a>
-- <a href="#links utilizados">Links</a>
-- <a href="#passos">Proximos passos</a>
+- <a href="#Demonstracao">Demonstração</a>
+- <a href="#Rodar">Como rodar este projeto?</a>
+- <a href="#Tecnologias-Utilizadas">Tecnologias utilizadas </a>
+- <a href="#Links-Utilizados">Links</a>
+- <a href="#Layouts">Layouts</a>
 
 ## Funcionalidades do Projeto
 
@@ -45,3 +45,4 @@ navegador: http://localhost:3000
 . [Favicon] https://favicon.io/
 . [Link Lorem Ipsum] https://www.lipsum.com/feed/html
 
+## Layouts
