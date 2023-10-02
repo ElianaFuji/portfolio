@@ -41,5 +41,7 @@ navegador: http://localhost:3000
 ## 🛠️ Tecnologias Utilizadas
 
 ## Links Utilizados
+[Bootstrap] https://startbootstrap.com/themes
+
 [Link Lorem Ipsum] https://www.lipsum.com/feed/html
 
