@@ -19,6 +19,10 @@ Os dados foram incorporados a partir do site Lorem Ipsum.
 [Link demonstração](https://elianafuji.github.io/portfolio/)
 
 ## Como rodar este projeto:?
+- Crie um site básico de portfolio a partir de um template do bootstrape
+- Crie uma conta no github
+- 
+
 URL criada a partir do html: https://elianafuji.github.io/portfolio/
 
 
