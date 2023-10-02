@@ -1,9 +1,10 @@
 # Projeto Portfolio  🍀
 
 
-Esse projeto parte do template de bootstrap.
+Esse projeto parte do template de bootstrap. Atividade desenvolvida para a aula de 
+atividade prática da aula de "Desenvolvimento FrontEnd - HTML CSS e BOOTSTRAP da Faculdade Descomplica".
 
-O objetivo é a partir da construção do html chegar a gerar o link do próprio portfolio.
+O objetivo é a partir da construção em html chegar a gerar o link do próprio portfolio.
 
 ## Indice
 - <a href="#funcionalidades">Funcionalides do Projeto</a>
