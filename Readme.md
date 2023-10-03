@@ -50,5 +50,6 @@ navegador: http://localhost:3000
 - [Link Lorem Ipsum] https://www.lipsum.com/feed/html
 
 ## Layouts
-![Home]()
-![Sobre]()
+![Home](https://github.com/ElianaFuji/portfolio/blob/main/layout1.png)
+![Sobre](https://github.com/ElianaFuji/portfolio/blob/main/layout2.png)
+
