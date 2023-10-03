@@ -38,11 +38,11 @@ navegador: http://localhost:3000
 ```
 
 ## 🛠️ Tecnologias Utilizadas
-. VSCode
-. HTML
-. CSS
-. Bootstrape
-. GitHub
+- VSCode
+- HTML
+- CSS
+- Bootstrape
+- GitHub
 
 ## Links Utilizados
 - [Bootstrap] https://startbootstrap.com/themes
