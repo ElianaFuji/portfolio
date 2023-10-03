@@ -11,14 +11,14 @@ Os dados foram incorporados a partir do site Lorem Ipsum.
 ## Indice
 - <a href="#Demonstracao">Demonstração</a>
 - <a href="#Rodar">Como rodar este projeto?</a>
-- <a href="#Tecnologias-Utilizadas">Tecnologias utilizadas </a>
-- <a href="#Links-Utilizados">Links</a>
+- <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a>
+- <a href="#Links-Utilizados">Links Utilizados</a>
 - <a href="#Layouts">Layouts</a>
 
 ## Demonstração
 [Link demonstração](https://elianafuji.github.io/portfolio/)
 
-## Como rodar este projeto:?
+## Como rodar este projeto?
 - Crie uma conta no github
 - Crie um novo repositório no GitHub
 
